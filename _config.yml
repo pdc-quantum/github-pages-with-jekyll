@@ -1,11 +1,13 @@
-title: My Home Page
+title: Qiskit and me
 author: Pierre Decoodt
 email: decpie@dgmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  this will list my ongoing projects
+  This will list my realizations, my ongoing projects, and my future plans in quantum computing science 
   
 # social links
 twitter_username: decpie # DO NOT include the @ character, or else the build will fail!
 github_username:  pdc-quantum # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
